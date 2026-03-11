@@ -1,6 +1,6 @@
 # LPICDevOps
 Lpic Devop training
-## new line
-i am typing a fun new line
-## coworkers line
+## New line
+I am typing a fun new line
+## Coworkers line
 This is a sats line
